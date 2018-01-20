@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">unyapps</string>
+    <string name="welcome_desc">UNY APPS</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="announcement">Announcement</string>
+    <string name="title_announcement">PENJELASAN PERUBAHAN STATUS BIDIKMISI BAGI MAHASISWA BIDIKMISI ANGKATAN 2017</string>
+    <string name="date">10 Oct</string>
+</resources>
